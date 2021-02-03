@@ -1,0 +1,5 @@
+#showtooltip
+/cast [nomod] Seal of Justice
+/cast [mod:shift] Seal of Righteousness(Rank 4)
+/stopcasting [mod:shift]
+/cast [mod:shift] Judgment

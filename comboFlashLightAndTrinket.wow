@@ -1,0 +1,4 @@
+#showtooltip
+/cast [nomod] Flash of Light(Rank 2)
+/cast [mod:shift] Flash of Light(Rank 1)
+/cast [mod:alt] Minor Recombobulator

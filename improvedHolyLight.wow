@@ -1,0 +1,5 @@
+#showtooltip
+/cast [nomod] Holy Light(Rank 4)
+/cast [mod:shift] Holy Light(Rank 3)
+/cast [mod:alt] Holy Light(Rank 2)
+/cast [mod:ctrl] Holy Light(Rank 1)
